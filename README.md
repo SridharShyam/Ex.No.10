@@ -1,66 +1,111 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
-
-## Date:
-## Reg. No.
+# Ex. No.: 10
+#### Date: 03.10.2025
+#### Name: SHYAM S
+#### Reg. No.: 212223240156
 
 ## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+To demonstrate how various prompting techniques such as query decomposition, decision-making, answer engineering, semantic filtering, and tail generation can be employed to create structured business reports and case studies. The objective is to show how prompt design influences the quality, depth, and coherence of AI-generated content.
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+## Procedure
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+1. **Introduction to Prompt Patterns:**
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+   * Query Decomposition – breaking complex prompts into smaller parts.
+   * Decision-Making – guiding the AI to select from options.
+   * Answer Engineering – refining format and structure.
+   * Fact Checklist – ensuring factual accuracy.
+   * Tail Generation – extending analysis logically.
+   * Menu Actions – providing multiple content directions.
+   * Semantic Filtering – adjusting tone, style, and depth.
+
+2. **Content Type Selection:**
+
+   * Business Report on Market Trends
+   * Case Study on Business Success
+
+3. **Prompting Approach:**
+
+   * Start with simple prompts to create a draft.
+   * Refine prompts using decision-making, SWOT-based prompts, and structured formatting.
+   * Evaluate and re-generate improved outputs.
+
+4. **Evaluation Criteria:**
+
+   * Coherence and flow of ideas
+   * Professional tone and structure
+   * Depth of insights (analytical content)
+   * Originality and engagement
+
+## Test Case Scenarios:
+
+### **Scenario 1: Business Report on Market Trends**
+
+**Prompt 1 (Basic):**
+*“Write a short business report on current e-commerce market trends.”*
+
+**Output:**
+The e-commerce industry is growing due to rising smartphone use, digital payments, and improved logistics. Key trends include personalized shopping, AI-driven product recommendations, and increasing demand for sustainable packaging.
+
+---
+
+**Prompt 2 (Refined – Query Decomposition + Answer Engineering):**
+*“Create a structured business report on global e-commerce market trends with sections: Introduction, Key Drivers, Challenges, and Future Outlook. Use professional tone.”*
+
+**Output:**
+**Business Report on Global E-commerce Trends**
+
+* **Introduction:** The global e-commerce market is projected to exceed USD 8 trillion by 2030, driven by digital adoption worldwide.
+* **Key Drivers:** Widespread smartphone usage, rapid digital payment adoption, AI-powered shopping experiences, and cross-border trade.
+* **Challenges:** Cybersecurity risks, supply chain bottlenecks, growing competition, and data privacy regulations.
+* **Future Outlook:** Augmented and virtual reality shopping, blockchain-based transactions, and sustainability-driven supply chains.
+
+---
+
+**Prompt 3 (Advanced – Decision-Making + Semantic Filtering):**
+*“Analyze the future of e-commerce by comparing two possible directions: AI-driven personalization vs. sustainability-focused business models. Use a formal, analytical tone.”*
+
+**Output:**
+The future of e-commerce is shaped by two potential pathways:
+
+1. **AI-Driven Personalization:** Companies will leverage predictive analytics, chatbots, and advanced recommendation systems to enhance customer loyalty and improve sales conversions.
+2. **Sustainability-Focused Models:** Businesses will adopt eco-friendly logistics, recyclable packaging, and ethical sourcing to align with rising consumer values.
+
+Market leaders will likely combine these approaches, balancing efficiency with responsibility to secure long-term growth.
+
+---
+
+### **Scenario 2: Case Study on Business Success (Tesla)**
+
+**Prompt 1 (Basic):**
+*“Write a case study on Tesla’s success.”*
+
+**Output:**
+Tesla’s success is largely attributed to its innovation in electric vehicles, brand image, and visionary leadership under Elon Musk. Its focus on performance, design, and sustainable energy positioned it as a pioneer in the EV market.
+
+---
+
+**Prompt 2 (Refined – SWOT-based Prompt):**
+*“Develop a professional case study on Tesla’s business success using SWOT analysis. Include market positioning and innovation strategies.”*
+
+**Output:**
+**Case Study: Tesla’s Business Success**
+
+* **Strengths:** First-mover advantage in EVs, strong brand equity, vertical integration of supply chains.
+* **Weaknesses:** High production costs, limited mass-market models.
+* **Opportunities:** Rising global EV demand, renewable energy ecosystem, expansion in Asian and European markets.
+* **Threats:** Competitive pressure from traditional automakers, raw material shortages, and regulatory challenges.
+  **Market Positioning:** Tesla positions itself as a premium, innovative, and sustainable brand.
+
+---
+
+**Prompt 3 (Advanced – Tail Generation + Semantic Filtering):**
+*“Extend the Tesla case study by predicting its growth trajectory over the next decade, emphasizing innovation and global expansion. Use a formal report style.”*
+
+**Output:**
+Over the next decade, Tesla is expected to expand its global presence with affordable EV models targeting emerging markets. Advancements in battery technology and autonomous driving systems will strengthen its technological edge. Furthermore, Tesla’s investment in solar energy and storage solutions will support its transformation into a diversified sustainable energy company. By 2035, Tesla is projected to become a market leader not just in EVs, but in renewable energy integration worldwide.
+
+---
+
+## Result:
+
+The outputs clearly show that basic prompts give short, surface-level content, while refined prompt techniques (query decomposition, SWOT analysis, decision-making, and tail generation) produce structured, professional, and in-depth business reports and case studies.
